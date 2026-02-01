@@ -1,0 +1,26 @@
+# Node
+node_modules/
+
+# Env files
+.env
+.env.local
+.env.*
+
+# Next.js
+.next/
+out/
+
+# Docs (ignore if not finalized)
+docs/
+QUICKSTART.md
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+
+# Docker
+*.log
