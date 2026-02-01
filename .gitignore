@@ -13,6 +13,7 @@ out/
 # Docs (ignore if not finalized)
 docs/
 QUICKSTART.md
+README copy.md
 
 # Logs
 npm-debug.log*
