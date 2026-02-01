@@ -208,8 +208,6 @@ Frontend runs on `http://localhost:3000`
 
 - **Frontend**: http://localhost:3000
 - **Backend API**: http://localhost:5000/api
-- **Admin Panel**: http://localhost:3000/admin (login with username: `admin`, password: `admin123`)
-
 ---
 
 
